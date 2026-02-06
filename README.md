@@ -1,9 +1,11 @@
-# 😀 Hey！Nice to see you.
+## 👋 Hi, I’m Yuang Xu.
 
-- 👋 Hi, I’m `Yuang Xu` (itwaix)
-- 👀 I'm interested in exploring my own world
-- 🌱 I’m currently learning Java, Rust
-- 💞️ I’m looking to collaborate on CS
+- 🎓 **Incoming PhD** | Computer Science @ USC
+- 🌱 **Researching**: ML Systems, Compiler Optimization, and HPC.
+- 🚀 **Goal**: Bridging the gap between hardware and deep learning algorithms.
+- ✍️ **Blog**: [yuangxu.com](https://yuangxu.com)  - 📫 **Contact**: Reach out for research collaborations or technical chats!
+
+---
 
 ## 💻 Things I code with
 <img src="https://img.shields.io/badge/Github-Coding-black"> <img src="https://img.shields.io/badge/GSoC-Preparing-blue">
