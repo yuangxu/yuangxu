@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Yuang Xu.
 
-- 🎓 **Incoming PhD** | Computer Science @ USC
+- 🎓 **Incoming PhD** | M.S. Computer Science @ USC
 - 🌱 **Researching**: ML Systems, Compiler Optimization, and HPC.
 - 🚀 **Goal**: Bridging the gap between hardware and deep learning algorithms.
 - ✍️ **Blog**: [yuangxu.com](https://yuangxu.com)  - 📫 **Contact**: Reach out for research collaborations or technical chats!
